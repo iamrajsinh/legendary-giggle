@@ -8,5 +8,6 @@ void main()
 	scanf("%f",&r);
 	v=4*22*r*r*r/7*3;
 	printf("Volume of Sphere: %f\n",v);
+	printf("Volume of Sphere is: %f\n",v);
 	getch();
 }
