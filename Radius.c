@@ -4,7 +4,7 @@ void main()
 {
 	float v,r;
 	clrscr();
-	printf("Enter Radius of Sphere: ");
+	printf("Enter Radius of The Sphere here : ");
 	scanf("%f",&r);
 	v=4*22*r*r*r/7*3;
 	printf("Volume of Sphere: %f\n",v);
